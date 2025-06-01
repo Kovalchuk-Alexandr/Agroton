@@ -1,12 +1,9 @@
-# Model Pattern Sample
+# Agroton
 
-## Стартовый шаблон. HTML, CSS, Swiper slider, ScroolReveal
+## Верстка сайта, адаптив сайта, html / css / js. HTML, CSS
 
 - HTML,
 - CSS, переменные,
-- Swiper slider, с кастомной пагинацией и навигацией
-- ScroolReveal - плавное появление элементов
-- Мобильная навигация
-- favicon
+- Мобильная навигация, адаптив
 
-[Смотреть демо](https://kovalchuk-alexandr.github.io/Sample/)
+[Смотреть демо](https://kovalchuk-alexandr.github.io/Agroton/)
