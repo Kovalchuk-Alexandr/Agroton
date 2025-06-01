@@ -1,0 +1,37 @@
+.about__stats {
+    margin-bottom: 70px;
+
+    border-radius: 20px;
+    padding: 30px 20px;
+    /* width: 1420px; */
+    /* height: 218px; */
+
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 20px;
+
+    background: var(--achiv-bg);
+}
+
+.about__stats-item {
+    width: 278px;
+    text-align: center;
+}
+
+.about__stats-item dt {
+    margin-bottom: 15px;
+    
+    font-family: var(--second-family);
+    font-weight: 600;
+    font-size: 40px;
+    color: var(--black);
+}
+
+.about__stats-item dd {
+    font-family: var(--third-family);
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 127%;
+    color: #0e0d0db5;
+}

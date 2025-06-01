@@ -1,0 +1,31 @@
+.header {
+    padding-block: 30px;
+}
+
+.header__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo {flex-shrink: 0;}
+
+
+
+@media (max-width: 1330px) {
+
+}
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 767px) {}
+
+@media (max-width: 540px) {
+}
+
+@media (max-width: 360px) {}
+
+

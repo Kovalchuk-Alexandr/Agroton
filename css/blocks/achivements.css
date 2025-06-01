@@ -1,0 +1,66 @@
+.about__achivements {
+    margin-top: -55px;
+    margin-bottom: 90px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.about__achivement {
+    max-width: 580px;
+    min-height: 170px;
+    padding: 14px 10px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    gap: 15px 25px;
+
+    border-radius: 20px;
+
+    backdrop-filter: blur(20px);
+    background: var(--achiv-bg);
+
+    transition: background-color 0.2s ease-in;
+    
+}
+
+.about__achivement:hover {
+    /* opacity: 0.9; */
+    background-color: #ebebde;
+}
+
+
+.about__achivement-imgbox {
+    position: relative;
+    min-width: 214px;
+}
+
+.about__achivement-img {
+}
+
+.about__achivement-arrow {
+    position: absolute;
+    top: 7px;
+    right: 0;
+}
+
+.about__achivement-desc {
+    padding-block: 10px;
+    font-family: var(--font-family);
+    color: var(--black);
+}
+
+.about__achivement-title {
+    margin-bottom: 20px;
+    font-weight: 500;
+    font-size: 16px;
+}
+.about__achivement-text {
+    font-weight: 300;
+    font-size: 14px;
+}
+
+

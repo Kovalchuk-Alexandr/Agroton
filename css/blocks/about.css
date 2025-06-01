@@ -1,0 +1,35 @@
+.about {
+    margin-bottom: 180px;
+}
+
+.about__top {
+    border-radius: 20px;
+    background-image: url('./../../img/about/about-bg.jpg');
+    background-position: center center; /* x y */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.about__heading {
+    padding-block: 72px 410px;
+    
+    font-family: var(--second-family);
+    text-transform: uppercase;
+    text-align: center;
+
+    color: var(--alternate-white);
+    text-shadow: 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.about__title {
+    font-weight: 600;
+    font-size: 250px;
+    line-height: 0.9;
+}
+
+.about__text {
+    padding-inline: 10px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 120%;
+}
