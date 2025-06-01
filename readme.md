@@ -1,6 +1,6 @@
 # Agroton
 
-## Верстка сайта, адаптив сайта, html / css / js. HTML, CSS
+## Верстка сайта, адаптив, html / css / js.
 
 - HTML,
 - CSS, переменные,
